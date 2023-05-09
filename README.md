@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio Pardo
 - 👀 I’m interested in dominate the world :)
 - 🌱 I’m currently learning about IDP's
-- 💞️ I’m looking to collaborate on green energy projects
+- 💞️ I’m looking to collaborate on green energy & teleco projects
 - 📫 You can reach me by email apardo at spluca.org
 
 <!---
