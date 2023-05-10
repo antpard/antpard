@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antonio Pardo
-- 👀 I’m interested in dominate the world :)
+- 👀 I’m interested in dominate the world like Debian project :)
 - 🌱 I’m currently learning about IDP's
 - 💞️ I’m looking to collaborate on green energy & telco projects
 - 📫 You can reach me by email: apardo at spluca.org
