@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Pardo
 - 👀 I’m currently learning about IDP's
-- 😍 Working on a side project with micro virtual machines
+- 😍 Working on a side project about radio links
 - 💞️ I’m looking to collaborate on green energy & telco projects
 - 📫 You can reach me by email at: apardo at spluca.org
 
