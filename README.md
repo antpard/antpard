@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antonio Pardo Sánchez
+- 👋 Hi, I’m deal
 - 👀 I’m currently learning about IDP's
 - 😍 Working on a side project about radio links and edge
 - 💞️ I’m looking to collaborate on green energy & telco projects
