@@ -1,7 +1,8 @@
-- 👋 Hi, I’m deal
+- 👋 Hi, I’m Antonio Pardo Sánchez
 - 👀 I’m currently learning about IDP's
 - 😍 Working on a side project about radio links and edge
 - 💞️ I’m looking to collaborate on green energy & telco projects
+- 👀 I want to deploy infra to make AI inference.
 - 📫 You can reach me by email at: apardo at spluca.org
 
 <!---
