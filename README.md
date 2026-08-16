@@ -2,7 +2,7 @@
 - 👀 I’m currently learning about IDP's
 - 😍 Working on a side project about radio links and edge
 - 💞️ I’m looking to collaborate on green energy & telco projects
-- 👀 I want to deploy infra to make AI inference.
+- 👀 I want to deploy infrastructure for running AI inference.
 - 📫 You can reach me by email at: apardo at spluca.org
 
 <!---
